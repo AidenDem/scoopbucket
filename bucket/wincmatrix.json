@@ -1,6 +1,7 @@
 {
     "version": "1.0",
     "description": "Matrix style effect in the terminal for Windows.",
+    "notes": "To get started execute the command 'cmatrix.exe -h'",
     "homepage": "https://github.com/AidenDem/WinCMatrix",
     "license": "MIT",
     "architecture": {
