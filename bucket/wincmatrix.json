@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/AidenDem/WinCMatrix/releases/download/1.0/WinCMatrix.zip",
-            "hash": "57fca2ee0823312f938276e7210e39c71b4e0628"
+            "hash": "c68747d182bc702e84cbc2f8e4d4cbed8f0f95a46f0fdc05172a3570f2420355"
         }
     },
     "bin": "wincmatrix.exe",
