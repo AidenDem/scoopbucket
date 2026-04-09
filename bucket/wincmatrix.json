@@ -1,0 +1,19 @@
+{
+    "version": "1.0",
+    "description": "Matrix style effect in the terminal for Windows.",
+    "homepage": "https://github.com/AidenDem/WinCMatrix",
+    "license": "MIT",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/AidenDem/WinCMatrix/releases/download/1.0/WinCMatrix.zip",
+            "hash": "57fca2ee0823312f938276e7210e39c71b4e0628"
+        }
+    },
+    "bin": "wincmatrix.exe",
+    "shortcuts": [
+        [
+            "wincmatrix.exe",
+            "cmatrix"
+        ]
+    ]
+}
