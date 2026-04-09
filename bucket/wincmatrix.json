@@ -11,6 +11,12 @@
         }
     },
     "bin": "cmatrix.exe",
+    "shortcuts": [
+        [
+            "cmatrix.exe",
+            "cmatrix"
+        ]
+    ],
     "checkver": {
         "github": "https://github.com/AidenDem/WinCMatrix"
     },
