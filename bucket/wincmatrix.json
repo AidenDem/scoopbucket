@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/AidenDem/WinCMatrix/releases/download/$version/WinCMatrix.zip"
+                "url": "https://github.com/AidenDem/WinCMatrix/releases/download/v$version/WinCMatrix.zip"
             }
         }
     }
